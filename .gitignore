@@ -1,0 +1,11 @@
+__venv__/
+
+# Daten-Ordner ausblenden
+data/
+
+# Jupyter Notebook automatische Dateien
+.ipynb_checkpoints/
+
+#Bilder
+Präsentation/
+
